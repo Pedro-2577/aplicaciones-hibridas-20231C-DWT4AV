@@ -1,5 +1,5 @@
 import express from 'express'
-import * as controllers from './controllers/products.controllers.js'
+import * as controllers from '../controllers/products.controllers.js'
 
 const route = express.Router()
 
